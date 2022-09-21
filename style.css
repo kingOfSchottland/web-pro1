@@ -37,3 +37,11 @@
 #layout2-f {
     border: 10px solid gold;
 }
+
+#layout2-a, #layout2-b, #layout2-c, #layout2-d, #layout2-e, #layout2-f {
+    height: 90px;
+}
+
+div {
+    text-align: center;
+}
